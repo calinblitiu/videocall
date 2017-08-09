@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\rubby\.android\build-cache\a6017b29449b193c44e5e5309e91d8c2559396e5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="E:\webrtc android pusher.com\opentok-android-sdk-samples-master\Basic-Video-Chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f39eb6e14546220b6c4ab1277fe5f016b34bc62a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rubby\.android\build-cache\94a6b20ebda98d8581a9b62ed32a011b1fa132fb\output\jars\libs\libjingle_peerconnection_java.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c820345fb0fc282322a614e257257d998af94bcb">
+        <dex dex="E:\webrtc android pusher.com\opentok-android-sdk-samples-master\Basic-Video-Chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\libjingle_peerconnection_java_a6d9c15b0c4dce9eedc62ecb899334fda7abdb25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\android\android-sdks\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\webrtc android pusher.com\opentok-android-sdk-samples-master\Basic-Video-Chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_b7d7f94b776b0481c3d765a351187e8a4ab851b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rubby\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\25.4.0\f6a2fc748ae3769633dea050563e1613e93c135e\support-annotations-25.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f6a2fc748ae3769633dea050563e1613e93c135e">
+        <dex dex="E:\webrtc android pusher.com\opentok-android-sdk-samples-master\Basic-Video-Chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.4.0_be9432dabf5f619b5a4e605493a3136126a902da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rubby\.android\build-cache\8a163a0c2d9df808c05bb836e42506dfd4c4514e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a64026daf4819a589aea776f5deb19b257a104d1">
+        <dex dex="E:\webrtc android pusher.com\opentok-android-sdk-samples-master\Basic-Video-Chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_98feb535403659207b93686564d300227631f848\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rubby\.android\build-cache\7bfac4760b7db8e031096cc26f3720405e1fd429\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e04f28ac2dd9bbe48ced6fc87fedf46c2586f5d6">
+        <dex dex="E:\webrtc android pusher.com\opentok-android-sdk-samples-master\Basic-Video-Chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_24c793278ca62d770fb02e83e2249c48ef36d60f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rubby\.android\build-cache\860040b52d33bb037982ec3f1c3729f5537ea47d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4961be1437163ab598620a3c907c0f3432936f51">
+        <dex dex="E:\webrtc android pusher.com\opentok-android-sdk-samples-master\Basic-Video-Chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1cd4fcc369b7805415c696fd52e5802e917b5563\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rubby\.android\build-cache\6fba33e14bb341e4b58b73b3c13cedd1fd2815b2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d29e451fd5bcc265989bf80afd4f149d95d72e7d">
+        <dex dex="E:\webrtc android pusher.com\opentok-android-sdk-samples-master\Basic-Video-Chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7dcb32c712c216af5aab6daffeb7f51e1f8e934e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\webrtc android pusher.com\opentok-android-sdk-samples-master\Basic-Video-Chat\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\webrtc android pusher.com\opentok-android-sdk-samples-master\Basic-Video-Chat\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_36ba2a7fd17de850a153990910856e37a9480b4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\webrtc android pusher.com\opentok-android-sdk-samples-master\Basic-Video-Chat\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6984bfc58dcc2a9d359f5aaf06275f6884e3dbf6">
+        <dex dex="E:\webrtc android pusher.com\opentok-android-sdk-samples-master\Basic-Video-Chat\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9aef2b18e11421855d0066e62cee0213787583b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rubby\.android\build-cache\ef1b1f261a2be70e4e7e514c175f0acebc9425ef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a7a0aa678c3bbadb67fb41df9e107f7ee9087902">
+        <dex dex="E:\webrtc android pusher.com\opentok-android-sdk-samples-master\Basic-Video-Chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b3d378b0df14a8d1d156bbc77f0fc2805db73794\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rubby\.android\build-cache\94a6b20ebda98d8581a9b62ed32a011b1fa132fb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="27813e89f1c4a3e5a377906467373307bbd11675">
+        <dex dex="E:\webrtc android pusher.com\opentok-android-sdk-samples-master\Basic-Video-Chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_31b777c9d865fee6940865ee40d3b8b47ff0138f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rubby\.android\build-cache\8c7423c5ae9415ee7e7679248eb08910e76799cf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c2deeac83ffa1304264bc755c2ddb84e7a7fa239">
+        <dex dex="E:\webrtc android pusher.com\opentok-android-sdk-samples-master\Basic-Video-Chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cf2ed9c476c1aa3b4d14390aeda8c965d211ccae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rubby\.android\build-cache\33d5162da00de5f47a35cac2b10f9df4e8be10b5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="870ce856ec2f776985b61dbbf0df0db9fe6df78b">
+        <dex dex="E:\webrtc android pusher.com\opentok-android-sdk-samples-master\Basic-Video-Chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8baea77f4a05e3b852b21316abbd901baca4f023\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rubby\.android\build-cache\bc758a42b04edbda2548fa270c72612f409634bc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\webrtc android pusher.com\opentok-android-sdk-samples-master\Basic-Video-Chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8e5237a0c3a9909a5a457ce4583d45c5455de7f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rubby\.android\build-cache\69006bce7a4317fd624ede5af67bc28c8e37fd56\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="05e3d15c623cd98f0eb43c8249fb6151fae0786c">
+        <dex dex="E:\webrtc android pusher.com\opentok-android-sdk-samples-master\Basic-Video-Chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dc965020852a17a70d66f4c6d7d2e6fdecdf9be4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rubby\.android\build-cache\6ea6c06deb196886481ba69be05defbac7259ba3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\webrtc android pusher.com\opentok-android-sdk-samples-master\Basic-Video-Chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_175c7f7ab943920f1c8a2f8a401ad9f030478490\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rubby\.android\build-cache\0e5f617b164233e00b8fa3bf83220786e31984a9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b77e50b3c31d0fc64148530f7077f79ec114b5b9">
+        <dex dex="E:\webrtc android pusher.com\opentok-android-sdk-samples-master\Basic-Video-Chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_60df87097446cfa338f2a814108c5f031d456a3a\classes.dex" />
+    </item>
+
+</items>
